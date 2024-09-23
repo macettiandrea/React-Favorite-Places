@@ -68,6 +68,12 @@ PlacePicker is a React application that allows users to create a personal collec
     You can select places you'd like to visit or have visited.
     To remove a place, click on it, and confirm the removal in the modal that appears.
 
+## Acknowledgments
+
+This project is based on the React course by [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) on Udemy. You can find the course [here](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+
+Special thanks to the instructor for the valuable content and guidance.
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. Feel free to use it for educational purposes. However, please give credit to the original course by Maximilian Schwarzmüller.
